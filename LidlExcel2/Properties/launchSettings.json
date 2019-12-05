@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LidlExcel2": {
+      "commandName": "Project",
+      "commandLineArgs": "in.txt out.txt"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Beornegar\source\repos\LidlExcel2\LidlExcel2\bin\Debug\netcoreapp3.0\LidlExcel2.exe
+C:\Users\Beornegar\source\repos\LidlExcel2\LidlExcel2\bin\Debug\netcoreapp3.0\LidlExcel2.deps.json
+C:\Users\Beornegar\source\repos\LidlExcel2\LidlExcel2\bin\Debug\netcoreapp3.0\LidlExcel2.runtimeconfig.json
+C:\Users\Beornegar\source\repos\LidlExcel2\LidlExcel2\bin\Debug\netcoreapp3.0\LidlExcel2.runtimeconfig.dev.json
+C:\Users\Beornegar\source\repos\LidlExcel2\LidlExcel2\bin\Debug\netcoreapp3.0\LidlExcel2.dll
+C:\Users\Beornegar\source\repos\LidlExcel2\LidlExcel2\bin\Debug\netcoreapp3.0\LidlExcel2.pdb
+C:\Users\Beornegar\source\repos\LidlExcel2\LidlExcel2\obj\Debug\netcoreapp3.0\LidlExcel2.csprojAssemblyReference.cache
+C:\Users\Beornegar\source\repos\LidlExcel2\LidlExcel2\obj\Debug\netcoreapp3.0\LidlExcel2.AssemblyInfoInputs.cache
+C:\Users\Beornegar\source\repos\LidlExcel2\LidlExcel2\obj\Debug\netcoreapp3.0\LidlExcel2.AssemblyInfo.cs
+C:\Users\Beornegar\source\repos\LidlExcel2\LidlExcel2\obj\Debug\netcoreapp3.0\LidlExcel2.dll
+C:\Users\Beornegar\source\repos\LidlExcel2\LidlExcel2\obj\Debug\netcoreapp3.0\LidlExcel2.pdb
